@@ -1,4 +1,4 @@
-# Calendar app
+# Calendar app - [Demo](https://nenadv91.github.io/Calendar/#/)
 Calendar application with functionality to add tasks, reminders and birthdays.
 
 ### Front-end
