@@ -30,7 +30,7 @@ class Events extends Component {
       return <div className={classes.empty}>
         <EmptyIcon />
         <h3>Nothing to do...</h3>
-        <p>Looks like you don't have anything planned at this time.</p>
+        <p>Looks like you do not have anything planned at this time.</p>
       </div>
     }
 
